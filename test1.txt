@@ -1,5 +1,9 @@
-new file
 
+
+
+
+new row added in new branch 1_test_line--------
+deleted 1 row in this file
 
 
 deleted 2 row
